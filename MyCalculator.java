@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Karabo Seekoei */
 public class MyCalculator {
     public static void main(String[] args) {
         System.out.println("Welcome to the Simple Calculator!");
